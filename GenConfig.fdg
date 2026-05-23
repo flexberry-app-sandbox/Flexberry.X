@@ -11,12 +11,12 @@
     "Validate": false,
     "Frontend": {
       "EmberJs": {
-        "EmberApp": false,
+        "EmberApp": true,
         "EmberAddon": false,
         "Build": false,
         "GitClone": false,
         "GitPush": false,
-        "GhPagesPush": true,
+        "GhPagesPush": false,
         "EmberMetadata": false
       },
       "ApacheCordova": {
